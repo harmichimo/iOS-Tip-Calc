@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='iOS Tip Calc App Demo' width='' alt='iOS Tip Calc App Demo' />
+<img src='https://github.com/harmichimo/iOS-Tip-Calc/blob/main/Images/iOS-app-demo.gif?raw=true' title='iOS Tip Calc App Demo' width='' alt='iOS Tip Calc App Demo' />
 
 ## Notes
 
